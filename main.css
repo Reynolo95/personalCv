@@ -1,0 +1,20 @@
+    .text {
+        color: blue;    
+    } 
+    .header-container {
+        display: flex;
+        align-items: left;
+        text-align: left;
+        justify-content: space-between;     
+    }
+    .header-navbar{
+
+    }
+    .container{
+        width: 100%;
+        text-align: center;
+        margin-top: 360px;       
+    }
+    .btn1:hover{
+        background-color: crimson;
+    }
